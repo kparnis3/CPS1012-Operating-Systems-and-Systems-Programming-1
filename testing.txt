@@ -1,0 +1,3 @@
+echo hello\ my\ name\ is\ mario
+echo please\ work\ correctly
+echo $CWD

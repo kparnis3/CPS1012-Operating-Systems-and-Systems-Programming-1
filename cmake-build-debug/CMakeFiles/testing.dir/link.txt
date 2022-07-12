@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/testing.dir/main.c.o CMakeFiles/testing.dir/functions.c.o CMakeFiles/testing.dir/internal.c.o CMakeFiles/testing.dir/linkedlist.c.o CMakeFiles/testing.dir/stack.c.o CMakeFiles/testing.dir/external.c.o CMakeFiles/testing.dir/linenoise/linenoise.c.o -o testing 

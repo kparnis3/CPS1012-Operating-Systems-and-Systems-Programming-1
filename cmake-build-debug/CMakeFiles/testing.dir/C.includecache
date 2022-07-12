@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kian/Downloads/os_assignment/functions.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+unistd.h
+-
+limits.h
+-
+dirent.h
+-
+errno.h
+-
+libgen.h
+-
+sys/wait.h
+-
+
+/home/kian/Downloads/os_assignment/main.c
+functions.h
+/home/kian/Downloads/os_assignment/functions.h
+
